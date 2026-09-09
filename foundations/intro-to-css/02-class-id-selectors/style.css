@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.odds {
+    background-color: #ff8080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
